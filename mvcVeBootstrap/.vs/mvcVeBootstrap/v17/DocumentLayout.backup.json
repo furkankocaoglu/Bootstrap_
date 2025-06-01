@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\",
+  "WorkspaceRootPath": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|c:\\users\\kocao\\source\\repos\\mvcvebootstrap\\mvcvebootstrap\\views\\uye\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|solutionrelative:mvcvebootstrap\\views\\uye\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|c:\\users\\kocao\\onedrive\\belgeler\\github\\bootstrap_\\mvcvebootstrap\\mvcvebootstrap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|solutionrelative:mvcvebootstrap\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|c:\\users\\kocao\\source\\repos\\mvcvebootstrap\\mvcvebootstrap\\controllers\\uyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|solutionrelative:mvcvebootstrap\\controllers\\uyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|c:\\users\\kocao\\onedrive\\belgeler\\github\\bootstrap_\\mvcvebootstrap\\mvcvebootstrap\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|solutionrelative:mvcvebootstrap\\models\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|c:\\users\\kocao\\source\\repos\\mvcvebootstrap\\mvcvebootstrap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\Shared\\_LayoutPage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvcVeBootstrap\\Views\\Shared\\_LayoutPage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcvebootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|solutionrelative:mvcvebootstrap\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcvebootstrap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|solutionrelative:mvcvebootstrap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|c:\\users\\kocao\\source\\repos\\mvcvebootstrap\\mvcvebootstrap\\models\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AC593F4-AD04-49BD-8903-A7AF9C0D59F8}|mvcVeBootstrap\\mvcVeBootstrap.csproj|solutionrelative:mvcvebootstrap\\models\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 255,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "mvcVeBootstrap\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "mvcVeBootstrap\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T21:25:49.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\Uye\\Index.cshtml",
-              "RelativeDocumentMoniker": "mvcVeBootstrap\\Views\\Uye\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\Uye\\Index.cshtml",
-              "RelativeToolTip": "mvcVeBootstrap\\Views\\Uye\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T21:14:07.331Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Web.config",
+              "RelativeDocumentMoniker": "mvcVeBootstrap\\Web.config",
+              "ToolTip": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Web.config",
+              "RelativeToolTip": "mvcVeBootstrap\\Web.config",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-27T00:27:52.028Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UyeController.cs",
-              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Controllers\\UyeController.cs",
-              "RelativeDocumentMoniker": "mvcVeBootstrap\\Controllers\\UyeController.cs",
-              "ToolTip": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Controllers\\UyeController.cs",
-              "RelativeToolTip": "mvcVeBootstrap\\Controllers\\UyeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Models\\Model1.cs",
+              "RelativeDocumentMoniker": "mvcVeBootstrap\\Models\\Model1.cs",
+              "ToolTip": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Models\\Model1.cs",
+              "RelativeToolTip": "mvcVeBootstrap\\Models\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:04:14.888Z",
+              "WhenOpened": "2025-05-27T00:18:52.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "mvcVeBootstrap\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "mvcVeBootstrap\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T20:26:05.314Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Uye.cs",
-              "DocumentMoniker": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Models\\Uye.cs",
-              "RelativeDocumentMoniker": "mvcVeBootstrap\\Models\\Uye.cs",
-              "ToolTip": "C:\\Users\\kocao\\source\\repos\\mvcVeBootstrap\\mvcVeBootstrap\\Models\\Uye.cs",
-              "RelativeToolTip": "mvcVeBootstrap\\Models\\Uye.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T21:03:13.541Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcVeBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcVeBootstrap\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T20:19:57.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvcVeBootstrap\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kocao\\OneDrive\\Belgeler\\GitHub\\Bootstrap_\\mvcVeBootstrap\\mvcVeBootstrap\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvcVeBootstrap\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T21:25:49.114Z"
             }
           ]
         }
